@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Izmno
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on just about anything related to HDL
-- 📫 How to reach me hi@simondemeyere.be
+hi, i'm Simon
+backend web developer
+he/him
+30 y/o
 
 <!---
 Izmno/Izmno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
