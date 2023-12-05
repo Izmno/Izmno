@@ -1,6 +1,9 @@
 hi, i'm Simon
+
 backend web developer
+
 he/him
+
 30 y/o
 
 <!---
